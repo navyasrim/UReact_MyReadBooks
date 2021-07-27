@@ -24,7 +24,8 @@ search page that allows you to find books to add to your library.
     └── BookShelf.js # This is to arrange the books by shelf
     └── NewBook.js # This is to add new book to the shelf based on  search of the books by terms
     ├── BooksAPI.js # A JavaScript API for the provided Udacity backend,(src/BooksAPI.js) contains the methods we will need to perform necessary operations on the backend:
-          Instructions for the methods are below.
+        
+        Instructions for the methods are below.
              * [`getAll`](#getall)
             * [`update`](#update)
             * [`search`](#search)
@@ -59,6 +60,7 @@ search page that allows you to find books to add to your library.
             ```
 
             * query: `<String>`
+            
     
     ├── icons # Helpful images for your app. Use at your discretion.
     │   ├── add.svg
